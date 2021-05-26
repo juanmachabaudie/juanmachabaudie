@@ -27,20 +27,19 @@
  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 </p>
 
-<!--
-**juanmachabaudie/juanmachabaudie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Healthy Henry**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **React Native, MaterialUI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤝 I’m looking for help with **anything that makes you grow**
+
+- 💬 Ask me about: **Javascript, NodeJS, ExpressJS, ReactJS, ReduxJS and anything about frontend design**
+
+- 📫 How to reach me **juanmanuelchabaudie@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/12yMqdCWdapwCWTEmZpVTRnLYrL6wkzGi/view?usp=sharing](https://drive.google.com/file/d/12yMqdCWdapwCWTEmZpVTRnLYrL6wkzGi/view?usp=sharing)
+
+- ⚡ Fun fact: **I have Obsessive-Compulsive-Disorder when I'am programming;**
 
 <p align ="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=juanmachabaudie&show_icons=true&theme=radical&line_height=33">
@@ -51,22 +50,6 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="150"> <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200.webp" width="150"> <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200.webp" width="150"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150">
 </p>
-
-
-
-- 🔭 I’m currently working on **Healthy Henry**
-
-- 🌱 I’m currently learning **React Native, MaterialUI**
-
-- 🤝 I’m looking for help with **anything that makes you grow**
-
-- 💬 Ask me about **Javascript, NodeJS, ExpressJS, ReactJS, ReduxJS and anything about frontend design**
-
-- 📫 How to reach me **juanmanuelchabaudie@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/12yMqdCWdapwCWTEmZpVTRnLYrL6wkzGi/view?usp=sharing](https://drive.google.com/file/d/12yMqdCWdapwCWTEmZpVTRnLYrL6wkzGi/view?usp=sharing)
-
-- ⚡ Fun fact **I have Obsessive-Compulsive-Disorder when I'am programming;**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
