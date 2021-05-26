@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/54723628/119598177-d7f93e00-bdb8-11eb-8d63-5dda240d0a29.png" alt="banner"/>
+<h1><img src="https://user-images.githubusercontent.com/54723628/119598177-d7f93e00-bdb8-11eb-8d63-5dda240d0a29.png" alt="banner"/></h1>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=juanmachabaudie&label=Profile%20views&color=0e75b6&style=flat" alt="juanmachabaudie" /> </p>
 
