@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[<img src ="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://juanmachabaudie.github.io/)  ![Visits Badge](https://badges.pufler.dev/visits/juanmachabaudie/juanmachabaudie?style=for-the-badge ) 
+
+
 <!--
 **juanmachabaudie/juanmachabaudie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
