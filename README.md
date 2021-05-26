@@ -1,6 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Juan Manuel</h1>
+<h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-[<img src ="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://juanmachabaudie.github.io/)  ![Visits Badge](https://badges.pufler.dev/visits/juanmachabaudie/juanmachabaudie?style=for-the-badge ) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanmachabaudie&label=Profile%20views&color=0e75b6&style=flat" alt="juanmachabaudie" /> </p>
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jmchabaudie/) ![Visits Badge](https://badges.pufler.dev/visits/juanmachabaudie/juanmachabaudie?style=for-the-badge ) 
 
 
 <!--
