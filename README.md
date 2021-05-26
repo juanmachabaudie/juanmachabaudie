@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Juan Manuel</h1>
-<h3 align="center">A passionate fullstack developer from Argentina</h3>
+<h3 align="center">A passionate fullstack developer from Argentina </h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=juanmachabaudie&label=Profile%20views&color=0e75b6&style=flat" alt="juanmachabaudie" /> </p>
-
+<hr/>
 <h3 align="center">Skills:</h3>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -23,7 +23,7 @@
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 </p>
-
+<hr/>
 - 🔭 I’m currently working on **Healthy Henry**
 
 - 🌱 I’m currently learning **React Native, MaterialUI**
@@ -37,13 +37,13 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/12yMqdCWdapwCWTEmZpVTRnLYrL6wkzGi/view?usp=sharing](https://drive.google.com/file/d/12yMqdCWdapwCWTEmZpVTRnLYrL6wkzGi/view?usp=sharing)
 
 - ⚡ Fun fact: **I have Obsessive-Compulsive-Disorder when I'am programming;**
-
+<hr/>
 <p align ="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=juanmachabaudie&show_icons=true&theme=radical&line_height=33">
 </p>
-
+<hr/>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmachabaudie&show_icons=true&locale=en&layout=compact" alt="juanmachabaudie" /></p>
-
+<hr/>
 <p align="center">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="150"> <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200.webp" width="150"> <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200.webp" width="150"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150">
 </p>
