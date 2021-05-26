@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Manuel</h1>
-<h3 align="center">A passionate fullstack developer from Argentina </h3>
+<img src="https://user-images.githubusercontent.com/54723628/119597248-0a09a080-bdb7-11eb-8c86-7f69988eb3b9.jpg" alt="banner">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=juanmachabaudie&label=Profile%20views&color=0e75b6&style=flat" alt="juanmachabaudie" /> </p>
 
