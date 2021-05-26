@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![JuanMa's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanmachabaudie)](https://github.com/juanmachabaudie/github-readme-stats)
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=juanmachabaudie&show_icons=true&theme=radical&line_height=33">
+</p>
+
 <p align="center">
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="150"> <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200.webp" width="150"> <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200.webp" width="150"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150">
 </p>
