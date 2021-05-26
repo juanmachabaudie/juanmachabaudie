@@ -23,7 +23,7 @@
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 </p>
-<hr color="#fff" />
+<hr/>
 - 🔭 I’m currently working on **Healthy Henry**
 
 - 🌱 I’m currently learning **React Native, MaterialUI**
@@ -41,7 +41,7 @@
 <p align ="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=juanmachabaudie&show_icons=true&theme=radical&line_height=33">
 </p>
-<hr/>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmachabaudie&show_icons=true&locale=en&layout=compact" alt="juanmachabaudie" /></p>
 
 <p align="center">
