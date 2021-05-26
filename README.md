@@ -23,7 +23,7 @@
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 </p>
-<hr style="height:1px;border:none;color:#333;background-color:#333;" />
+<hr style="height:0.5px;border:none;color:#fff;background-color:#333;" />
 - 🔭 I’m currently working on **Healthy Henry**
 
 - 🌱 I’m currently learning **React Native, MaterialUI**
