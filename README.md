@@ -47,8 +47,3 @@
 <p align="center">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="150"> <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200.webp" width="150"> <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200.webp" width="150"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150">
 </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/jmchabaudie/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
