@@ -23,7 +23,8 @@
  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 </p>
 <hr/>
--🔭I’mcurrentlyworkingon**Healthy Henry**
+
+- 🔭 I’m currently working on **Healthy Henry**
 
 - 🌱 I’m currently learning **React Native, MaterialUI**
 
