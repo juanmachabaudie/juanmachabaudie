@@ -24,9 +24,9 @@
 </p>
 <hr/>
 
-- 🔭 I’m currently working on **Healthy Henry**
+- 🔭 I’m currently working in **Big Data Machine**
 
-- 🌱 I’m currently learning **React Native, MaterialUI**
+- 🌱 I’m currently learning **React Native**
 
 - 🤝 I’m looking for help with **anything that makes you grow**
 
